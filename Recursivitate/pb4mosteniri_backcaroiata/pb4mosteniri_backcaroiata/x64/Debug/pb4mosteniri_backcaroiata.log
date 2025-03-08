@@ -1,0 +1,25 @@
+﻿Build started 14.01.2025 20:43:37.
+Logging verbosity is set to: Normal.     1>Project "C:\Users\PC\Documents\pb4mosteniri_backcaroiata\pb4mosteniri_backcaroiata\pb4mosteniri_backcaroiata.vcxproj" on node 2 (Build target(s)).
+     1>PrepareForBuild:
+         Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+         Creating directory "C:\Users\PC\Documents\pb4mosteniri_backcaroiata\x64\Debug\".
+         Creating directory "x64\Debug\pb4moste.90e9aa24.tlog\".
+       InitializeBuildStatus:
+         Creating "x64\Debug\pb4moste.90e9aa24.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+         Touching "x64\Debug\pb4moste.90e9aa24.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TC /FC /errorReport:prompt pb4m.c
+         pb4m.c
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PC\Documents\pb4mosteniri_backcaroiata\x64\Debug\pb4mosteniri_backcaroiata.exe" /INCREMENTAL /ILK:"x64\Debug\pb4mosteniri_backcaroiata.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\PC\Documents\pb4mosteniri_backcaroiata\x64\Debug\pb4mosteniri_backcaroiata.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PC\Documents\pb4mosteniri_backcaroiata\x64\Debug\pb4mosteniri_backcaroiata.lib" /MACHINE:X64 x64\Debug\pb4m.obj
+         pb4mosteniri_backcaroiata.vcxproj -> C:\Users\PC\Documents\pb4mosteniri_backcaroiata\x64\Debug\pb4mosteniri_backcaroiata.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\pb4moste.90e9aa24.tlog\unsuccessfulbuild".
+         Touching "x64\Debug\pb4moste.90e9aa24.tlog\pb4mosteniri_backcaroiata.lastbuildstate".
+     1>Done Building Project "C:\Users\PC\Documents\pb4mosteniri_backcaroiata\pb4mosteniri_backcaroiata\pb4mosteniri_backcaroiata.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.36

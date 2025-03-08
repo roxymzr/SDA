@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\mosteniri SDA\\pozawhapp_prioritati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BFA518-1327-4FB0-8E5A-41536B1EBF6C}|pozawhapp_prioritati\\pozawhapp_prioritati.vcxproj|C:\\Users\\PC\\Documents\\mosteniri SDA\\pozawhapp_prioritati\\pozawhapp_prioritati\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7BFA518-1327-4FB0-8E5A-41536B1EBF6C}|pozawhapp_prioritati\\pozawhapp_prioritati.vcxproj|solutionrelative:pozawhapp_prioritati\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\mosteniri SDA\\pozawhapp_prioritati\\pozawhapp_prioritati\\Source.c",
+              "RelativeDocumentMoniker": "pozawhapp_prioritati\\Source.c",
+              "ToolTip": "C:\\Users\\PC\\Documents\\mosteniri SDA\\pozawhapp_prioritati\\pozawhapp_prioritati\\Source.c",
+              "RelativeToolTip": "pozawhapp_prioritati\\Source.c",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-17T23:16:10.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\mosteniri SDA\\pb5mosteniri_magazin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{925620D9-8418-44E7-B696-6E18052BCFC5}|pb5mosteniri_magazin\\pb5mosteniri_magazin.vcxproj|C:\\Users\\PC\\Documents\\mosteniri SDA\\pb5mosteniri_magazin\\pb5mosteniri_magazin\\pb5m.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{925620D9-8418-44E7-B696-6E18052BCFC5}|pb5mosteniri_magazin\\pb5mosteniri_magazin.vcxproj|solutionrelative:pb5mosteniri_magazin\\pb5m.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pb5m.c",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\mosteniri SDA\\pb5mosteniri_magazin\\pb5mosteniri_magazin\\pb5m.c",
+              "RelativeDocumentMoniker": "pb5mosteniri_magazin\\pb5m.c",
+              "ToolTip": "C:\\Users\\PC\\Documents\\mosteniri SDA\\pb5mosteniri_magazin\\pb5mosteniri_magazin\\pb5m.c",
+              "RelativeToolTip": "pb5mosteniri_magazin\\pb5m.c",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T13:59:56.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

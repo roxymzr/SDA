@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\mosteniri SDA\\pb6p2mosteniri_binar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1DBA87-EA97-4BD4-BC30-41F40EC96456}|pb6p2mosteniri_binar\\pb6p2mosteniri_binar.vcxproj|C:\\Users\\PC\\Documents\\mosteniri SDA\\pb6p2mosteniri_binar\\pb6p2mosteniri_binar\\p6p2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD1DBA87-EA97-4BD4-BC30-41F40EC96456}|pb6p2mosteniri_binar\\pb6p2mosteniri_binar.vcxproj|solutionrelative:pb6p2mosteniri_binar\\p6p2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p6p2.c",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\mosteniri SDA\\pb6p2mosteniri_binar\\pb6p2mosteniri_binar\\p6p2.c",
+              "RelativeDocumentMoniker": "pb6p2mosteniri_binar\\p6p2.c",
+              "ToolTip": "C:\\Users\\PC\\Documents\\mosteniri SDA\\pb6p2mosteniri_binar\\pb6p2mosteniri_binar\\p6p2.c",
+              "RelativeToolTip": "pb6p2mosteniri_binar\\p6p2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-18T18:25:44.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

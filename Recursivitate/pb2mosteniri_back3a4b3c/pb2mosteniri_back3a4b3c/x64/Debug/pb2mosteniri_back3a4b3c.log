@@ -1,0 +1,25 @@
+﻿Build started 14.01.2025 19:50:47.
+Logging verbosity is set to: Normal.     1>Project "C:\Users\PC\Documents\pb2mosteniri_back3a4b3c\pb2mosteniri_back3a4b3c\pb2mosteniri_back3a4b3c.vcxproj" on node 2 (Build target(s)).
+     1>PrepareForBuild:
+         Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+         Creating directory "C:\Users\PC\Documents\pb2mosteniri_back3a4b3c\x64\Debug\".
+         Creating directory "x64\Debug\pb2moste.12bcdd55.tlog\".
+       InitializeBuildStatus:
+         Creating "x64\Debug\pb2moste.12bcdd55.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+         Touching "x64\Debug\pb2moste.12bcdd55.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt pb2mc.cpp
+         pb2mc.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PC\Documents\pb2mosteniri_back3a4b3c\x64\Debug\pb2mosteniri_back3a4b3c.exe" /INCREMENTAL /ILK:"x64\Debug\pb2mosteniri_back3a4b3c.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\PC\Documents\pb2mosteniri_back3a4b3c\x64\Debug\pb2mosteniri_back3a4b3c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PC\Documents\pb2mosteniri_back3a4b3c\x64\Debug\pb2mosteniri_back3a4b3c.lib" /MACHINE:X64 x64\Debug\pb2mc.obj
+         pb2mosteniri_back3a4b3c.vcxproj -> C:\Users\PC\Documents\pb2mosteniri_back3a4b3c\x64\Debug\pb2mosteniri_back3a4b3c.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\pb2moste.12bcdd55.tlog\unsuccessfulbuild".
+         Touching "x64\Debug\pb2moste.12bcdd55.tlog\pb2mosteniri_back3a4b3c.lastbuildstate".
+     1>Done Building Project "C:\Users\PC\Documents\pb2mosteniri_back3a4b3c\pb2mosteniri_back3a4b3c\pb2mosteniri_back3a4b3c.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.63

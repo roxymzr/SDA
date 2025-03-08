@@ -1,0 +1,23 @@
+﻿Build started 18.01.2025 20:29:55.
+Logging verbosity is set to: Normal.     1>Project "C:\Users\PC\Documents\mosteniri SDA\pb6p2mosteniri_binar\pb6p2mosteniri_binar\pb6p2mosteniri_binar.vcxproj" on node 2 (Build target(s)).
+     1>PrepareForBuild:
+         Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+       InitializeBuildStatus:
+         Creating "x64\Debug\pb6p2mos.cd1dba87.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+         Touching "x64\Debug\pb6p2mos.cd1dba87.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TC /FC /errorReport:prompt p6p2.c
+         p6p2.c
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PC\Documents\mosteniri SDA\pb6p2mosteniri_binar\x64\Debug\pb6p2mosteniri_binar.exe" /INCREMENTAL /ILK:"x64\Debug\pb6p2mosteniri_binar.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\PC\Documents\mosteniri SDA\pb6p2mosteniri_binar\x64\Debug\pb6p2mosteniri_binar.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PC\Documents\mosteniri SDA\pb6p2mosteniri_binar\x64\Debug\pb6p2mosteniri_binar.lib" /MACHINE:X64 x64\Debug\p6p2.obj
+         pb6p2mosteniri_binar.vcxproj -> C:\Users\PC\Documents\mosteniri SDA\pb6p2mosteniri_binar\x64\Debug\pb6p2mosteniri_binar.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\pb6p2mos.cd1dba87.tlog\unsuccessfulbuild".
+         Touching "x64\Debug\pb6p2mos.cd1dba87.tlog\pb6p2mosteniri_binar.lastbuildstate".
+     1>Done Building Project "C:\Users\PC\Documents\mosteniri SDA\pb6p2mosteniri_binar\pb6p2mosteniri_binar\pb6p2mosteniri_binar.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.60

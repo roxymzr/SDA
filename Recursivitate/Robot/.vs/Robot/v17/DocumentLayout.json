@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Robot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80F34440-F17B-4946-8F70-FA5F69088504}|Robot\\Robot.vcxproj|C:\\Users\\PC\\Documents\\Robot\\Robot\\robo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80F34440-F17B-4946-8F70-FA5F69088504}|Robot\\Robot.vcxproj|solutionrelative:Robot\\robo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "robo.c",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Robot\\Robot\\robo.c",
+              "RelativeDocumentMoniker": "Robot\\robo.c",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Robot\\Robot\\robo.c",
+              "RelativeToolTip": "Robot\\robo.c",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-12T14:30:58.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

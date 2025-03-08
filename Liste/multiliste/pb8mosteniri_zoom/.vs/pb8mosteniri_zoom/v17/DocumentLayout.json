@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\mosteniri SDA\\pb8mosteniri_zoom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{052EEB86-55EE-4457-9E44-99D6C113BAD5}|pb8mosteniri_zoom\\pb8mosteniri_zoom.vcxproj|C:\\Users\\PC\\Documents\\mosteniri SDA\\pb8mosteniri_zoom\\pb8mosteniri_zoom\\pb8m.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{052EEB86-55EE-4457-9E44-99D6C113BAD5}|pb8mosteniri_zoom\\pb8mosteniri_zoom.vcxproj|solutionrelative:pb8mosteniri_zoom\\pb8m.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pb8m.c",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\mosteniri SDA\\pb8mosteniri_zoom\\pb8mosteniri_zoom\\pb8m.c",
+              "RelativeDocumentMoniker": "pb8mosteniri_zoom\\pb8m.c",
+              "ToolTip": "C:\\Users\\PC\\Documents\\mosteniri SDA\\pb8mosteniri_zoom\\pb8mosteniri_zoom\\pb8m.c",
+              "RelativeToolTip": "pb8mosteniri_zoom\\pb8m.c",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAAA0BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-17T15:13:34.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

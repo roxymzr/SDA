@@ -1,0 +1,31 @@
+﻿Build started 17.01.2025 19:29:35.
+Logging verbosity is set to: Normal.     1>Project "C:\Users\PC\Documents\mosteniri SDA\pb8mosteniri_zoom\pb8mosteniri_zoom\pb8mosteniri_zoom.vcxproj" on node 2 (Build target(s)).
+     1>PrepareForBuild:
+         Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+         Creating directory "C:\Users\PC\Documents\mosteniri SDA\pb8mosteniri_zoom\x64\Debug\".
+         Creating directory "x64\Debug\pb8moste.052eeb86.tlog\".
+       InitializeBuildStatus:
+         Creating "x64\Debug\pb8moste.052eeb86.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+         Touching "x64\Debug\pb8moste.052eeb86.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TC /FC /errorReport:prompt pb8m.c
+         pb8m.c
+     1>C:\Users\PC\Documents\mosteniri SDA\pb8mosteniri_zoom\pb8mosteniri_zoom\pb8m.c(237,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PC\Documents\mosteniri SDA\pb8mosteniri_zoom\x64\Debug\pb8mosteniri_zoom.exe" /INCREMENTAL /ILK:"x64\Debug\pb8mosteniri_zoom.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\PC\Documents\mosteniri SDA\pb8mosteniri_zoom\x64\Debug\pb8mosteniri_zoom.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PC\Documents\mosteniri SDA\pb8mosteniri_zoom\x64\Debug\pb8mosteniri_zoom.lib" /MACHINE:X64 x64\Debug\pb8m.obj
+         pb8mosteniri_zoom.vcxproj -> C:\Users\PC\Documents\mosteniri SDA\pb8mosteniri_zoom\x64\Debug\pb8mosteniri_zoom.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\pb8moste.052eeb86.tlog\unsuccessfulbuild".
+         Touching "x64\Debug\pb8moste.052eeb86.tlog\pb8mosteniri_zoom.lastbuildstate".
+     1>Done Building Project "C:\Users\PC\Documents\mosteniri SDA\pb8mosteniri_zoom\pb8mosteniri_zoom\pb8mosteniri_zoom.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+       "C:\Users\PC\Documents\mosteniri SDA\pb8mosteniri_zoom\pb8mosteniri_zoom\pb8mosteniri_zoom.vcxproj" (Build target) (1) ->
+       (ClCompile target) -> 
+         C:\Users\PC\Documents\mosteniri SDA\pb8mosteniri_zoom\pb8mosteniri_zoom\pb8m.c(237,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+
+    1 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.25
